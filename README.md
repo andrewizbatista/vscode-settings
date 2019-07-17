@@ -1,1 +1,1 @@
-# vscode-settings
+# My Visual Studio Settings
