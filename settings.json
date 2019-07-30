@@ -30,6 +30,9 @@
     "typescript",
     "typescriptreact"
   ],
+  "files.associations": {
+    ".env.*": "dotenv"
+  },
   "typescript.suggest.autoImports": false,
   "javascript.suggest.autoImports": false,
   "editor.fontFamily": "Inconsolata-dz",
