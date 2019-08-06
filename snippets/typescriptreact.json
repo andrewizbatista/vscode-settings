@@ -1,6 +1,6 @@
 {
-  "Material UI Component": {
-    "description": "Material UI Component",
+  "Component (Mui)": {
+    "description": "react component with material-ui",
     "prefix": "_component",
     "body": [
       "import React from 'react';",

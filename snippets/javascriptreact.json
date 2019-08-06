@@ -1,0 +1,29 @@
+{
+  "Component (Styled)": {
+    "description": "react component with styled-components",
+    "prefix": "_component",
+    "body": [
+      "import React from 'react';",
+      "import PropTypes from 'prop-types';",
+      "import styled from 'styled-components';",
+      "",
+      "// Components",
+      "// import GoodLuck from 'components/GoodLuck';",
+      "",
+      "const ${1:MyComponent} = () => {",
+      "  return (",
+      "    <Wrapper>",
+      "      <h1>${1:MyComponent}</h1>",
+      "    </Wrapper>",
+      "  );",
+      "};",
+      "",
+      "${1:MyComponent}.propTypes = {};",
+      "",
+      "export default ${1:MyComponent};",
+      "",
+      "const Wrapper = styled.div``;",
+      ""
+    ]
+  }
+}
