@@ -1,19 +1,38 @@
 {
-  "git.autofetch": true,
-  "git.confirmSync": false,
+  "editor.fontFamily": "Inconsolata-dz",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 24,
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.detectIndentation": false,
+  "editor.snippetSuggestions": "top",
+  "editor.minimap.enabled": false,
+  "explorer.decorations.badges": true,
   "explorer.confirmDragAndDrop": false,
   "explorer.autoReveal": false,
-  "files.eol": "\n",
-  "terminal.integrated.fontSize": 10,
-  "workbench.colorTheme": "An Old Hope Classic",
+  "workbench.colorTheme": "An Old Hope",
   "workbench.editor.showTabs": true,
   "workbench.iconTheme": "file-icons",
   "workbench.settings.editor": "json",
+  "workbench.startupEditor": "newUntitledFile",
+  "window.zoomLevel": 0,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "files.eol": "\n",
+  "terminal.integrated.fontSize": 10,
   "prettier.singleQuote": true,
   "prettier.endOfLine": "lf",
   "prettier.tabWidth": 2,
   "prettier.useTabs": false,
   "prettier.trailingComma": "all",
+  "typescript.suggest.autoImports": false,
+  "javascript.suggest.autoImports": false,
+  "files.associations": {
+    ".env.*": "dotenv"
+  },
   "colorize.colorized_colors": ["HEXA", "RGB", "HSL"],
   "colorize.languages": [
     "css",
@@ -30,19 +49,6 @@
     "typescript",
     "typescriptreact"
   ],
-  "files.associations": {
-    ".env.*": "dotenv"
-  },
-  "typescript.suggest.autoImports": false,
-  "javascript.suggest.autoImports": false,
-  "editor.fontFamily": "Inconsolata-dz",
-  "editor.fontSize": 12,
-  "editor.formatOnSave": true,
-  "editor.tabSize": 2,
-  "editor.wordWrap": "on",
-  "editor.multiCursorModifier": "ctrlCmd",
-  "editor.detectIndentation": false,
-  "editor.snippetSuggestions": "top",
   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
