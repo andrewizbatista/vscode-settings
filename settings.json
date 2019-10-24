@@ -29,7 +29,9 @@
   "prettier.useTabs": false,
   "prettier.trailingComma": "all",
   "typescript.suggest.autoImports": false,
+  "typescript.updateImportsOnFileMove.enabled": "never",
   "javascript.suggest.autoImports": false,
+  "javascript.updateImportsOnFileMove.enabled": "never",
   "files.associations": {
     ".env.*": "dotenv"
   },
