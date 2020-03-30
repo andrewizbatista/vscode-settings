@@ -9,6 +9,7 @@
   "editor.lineHeight": 24,
   "editor.minimap.enabled": false,
   "editor.multiCursorModifier": "ctrlCmd",
+  "editor.semanticHighlighting.enabled": false,
   "editor.snippetSuggestions": "none",
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
@@ -27,7 +28,6 @@
   "window.zoomLevel": 0,
   "workbench.colorTheme": "An Old Hope Classic",
   "workbench.editor.showTabs": true,
-
   "workbench.iconTheme": "file-icons",
   "workbench.settings.editor": "json",
   "workbench.startupEditor": "newUntitledFile",
@@ -50,6 +50,9 @@
     "typescript",
     "typescriptreact"
   ],
+  "[handlebars]": {
+    "editor.formatOnSave": false
+  },
   "editor.tokenColorCustomizations": {
     "textMateRules": [
       {
