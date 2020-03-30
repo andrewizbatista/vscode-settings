@@ -32,7 +32,9 @@
   "workbench.settings.editor": "json",
   "workbench.startupEditor": "newUntitledFile",
   "files.associations": {
-    ".env.*": "dotenv"
+    ".env.*": "dotenv",
+    ".lintstagedrc": "json",
+    ".stylelintrc": "json"
   },
   "colorize.colorized_colors": ["HEXA", "RGB", "HSL"],
   "colorize.languages": [
