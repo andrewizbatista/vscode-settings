@@ -16,7 +16,7 @@
   "explorer.autoReveal": false,
   "explorer.confirmDragAndDrop": false,
   "explorer.decorations.badges": true,
-  "files.defaultLanguage": "javascriptreact",
+  "files.defaultLanguage": "typescriptreact",
   "files.eol": "\n",
   "git.autofetch": true,
   "git.confirmSync": false,
@@ -25,7 +25,6 @@
   "terminal.integrated.fontSize": 10,
   "typescript.suggest.autoImports": false,
   "typescript.updateImportsOnFileMove.enabled": "never",
-  "window.zoomLevel": 0,
   "workbench.colorTheme": "An Old Hope Classic",
   "workbench.editor.showTabs": true,
   "workbench.iconTheme": "file-icons",
@@ -54,6 +53,9 @@
   ],
   "[handlebars]": {
     "editor.formatOnSave": false
+  },
+  "[nginx]": {
+    "editor.tabSize": 4
   },
   "editor.tokenColorCustomizations": {
     "textMateRules": [
