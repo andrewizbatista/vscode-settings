@@ -38,12 +38,14 @@
   "colorize.colorized_colors": ["HEXA", "RGB", "HSL"],
   "colorize.languages": [
     "css",
+    "javascript",
+    "javascriptreact",
+    "json",
     "sass",
     "scss",
-    "javascript",
+    "svg",
     "typescript",
-    "json",
-    "svg"
+    "typescriptreact"
   ],
   "eslint.validate": [
     "javascript",
