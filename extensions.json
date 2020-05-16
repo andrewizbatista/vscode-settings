@@ -1,16 +1,11 @@
 [
-  "aaron-bond.better-comments",
-  "cssho.vscode-svgviewer",
-  "cssho.vscode-svgviewer",
   "dbaeumer.vscode-eslint",
   "eamodio.gitlens",
   "esbenp.prettier-vscode",
   "file-icons.file-icons",
   "jpoissonnier.vscode-styled-components",
   "kamikillerto.vscode-colorize",
-  "kumar-harsh.graphql-for-vscode",
   "mikestead.dotenv",
-  "quicktype.quicktype",
   "tyriar.sort-lines",
   "william-voyek.vscode-nginx",
   "wix.vscode-import-cost"
