@@ -1,4 +1,7 @@
 [
+  /**
+   * Linux
+   */
   {
     "key": "shift+alt+down",
     "command": "editor.action.copyLinesDownAction",
@@ -18,5 +21,13 @@
     "key": "ctrl+q",
     "command": "workbench.files.action.showActiveFileInExplorer",
     "when": "editorTextFocus"
+  },
+  /**
+   * Mac
+   */
+  {
+    "key": "cmd+\\",
+    "command": "editor.action.commentLine",
+    "when": "editorTextFocus && !editorReadonly"
   }
 ]
