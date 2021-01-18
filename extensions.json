@@ -1,12 +1,14 @@
 [
   "bierner.markdown-preview-github-styles",
+  "coenraads.bracket-pair-colorizer-2",
   "dbaeumer.vscode-eslint",
   "eamodio.gitlens",
   "esbenp.prettier-vscode",
   "file-icons.file-icons",
-  "jpoissonnier.vscode-styled-components",
-  "kamikillerto.vscode-colorize",
   "mikestead.dotenv",
+  "naumovs.color-highlight",
+  "rebornix.project-snippets",
+  "svipas.control-snippets",
   "tyriar.sort-lines",
   "william-voyek.vscode-nginx",
   "wix.vscode-import-cost"
