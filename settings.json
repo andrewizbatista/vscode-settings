@@ -10,9 +10,10 @@
   "editor.minimap.enabled": false,
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.semanticHighlighting.enabled": false,
-  "editor.snippetSuggestions": "none",
+  "editor.snippetSuggestions": "inline",
   "editor.tabSize": 2,
   "editor.wordWrap": "on",
+  "emmet.showExpandedAbbreviation": "never",
   "explorer.autoReveal": false,
   "explorer.confirmDragAndDrop": false,
   "explorer.decorations.badges": true,
@@ -30,23 +31,12 @@
   "workbench.iconTheme": "file-icons",
   "workbench.settings.editor": "json",
   "workbench.startupEditor": "newUntitledFile",
+  "window.zoomLevel": 0,
   "files.associations": {
     ".env.*": "dotenv",
     ".lintstagedrc": "json",
     ".stylelintrc": "json"
   },
-  "colorize.colorized_colors": ["HEXA", "RGB", "HSL"],
-  "colorize.languages": [
-    "css",
-    "javascript",
-    "javascriptreact",
-    "json",
-    "sass",
-    "scss",
-    "svg",
-    "typescript",
-    "typescriptreact"
-  ],
   "eslint.validate": [
     "javascript",
     "javascriptreact",
